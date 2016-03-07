@@ -1,11 +1,8 @@
 {
   "name": "udpcloud-ui-grid",
   "homepage": "http://ui-grid.info",
-  "authors": [
-    "Jennifer Cho <jennifer.cho@udptechnology.com>"
-  ],
   "description": "A data grid for Angular",
-  "main": "./ui-grid.min.js, ./ui-grid.min.css",
+  "main": ["./ui-grid.min.js", "./ui-grid.min.css"],
   "moduleType": [
     "node"
   ],
